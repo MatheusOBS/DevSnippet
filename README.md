@@ -58,7 +58,7 @@ npm install
 3. Configure as variáveis de ambiente:
 Crie um arquivo `.env.local` na raiz do projeto e adicione sua chave:
 ```env
-GEMINI_API_KEY=sua_chave_aqui
+GEMINI_API_KEY=replace_with_your_gemini_api_key
 ```
 
 4. Inicie o servidor de desenvolvimento:
